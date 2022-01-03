@@ -1,4 +1,6 @@
 # pneumnia-classification
+MLP연습
+
 
 this code is pneumnia classification model
 
