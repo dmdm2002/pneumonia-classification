@@ -1,4 +1,4 @@
-# pneumnia-classification
+# pneumonia-classification
 Simple CNN연습
 
 
